@@ -1,0 +1,22 @@
+Banking Backend System
+
+📌 Overview
+
+This project is a backend banking system built using Spring Boot and Java Persistence API (JPA). It focuses on designing a scalable and structured data model to manage core banking operations such as customers, accounts, and transactions.
+
+The application demonstrates how real-world financial systems organize and persist data using Object Relational Mapping (ORM).
+
+🛠️ Technologies Used
+Java
+Spring Boot
+JPA (Java Persistence API)
+Hibernate
+Maven
+
+💼 Use Case
+
+This project simulates a simplified banking system backend, which can be extended into a full-stack financial application with APIs and frontend integration.
+
+⭐ Acknowledgment
+
+This project was built as part of a hands-on learning experience to understand real-world backend development and enterprise-level application structure.
